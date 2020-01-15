@@ -78,7 +78,9 @@
 [V1版本](https://github.com/ChinaLHR/JavaQuarkBBS/tree/v1)
 
 ## TODO
-- 对项目进行服务化与细节优化，减少冗余代码
+- nginx配置图片服务器
+- nginx反向代理
+- docker容器化
 ## License
 
     Copyright 2016 Maat
