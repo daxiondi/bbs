@@ -1,5 +1,9 @@
 # JavaQuark社区
 
+## 原仓库地址：https://github.com/ChinaLHR/JavaQuarkBBS
+本项目开源只为相互学习
+
+
  [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
 ## 简介
@@ -38,6 +42,9 @@
 - Bootstrap
 - Datatables，zTree
 - LayUI
+
+## 安装手册
+[bbs安装手册](./install.md)
 
 ## swagger2生成的RESTFul API文档
 (默认在http://loclhost:8081下)
